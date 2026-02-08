@@ -31,7 +31,7 @@ To enhance sensor adaptability and prevent overfitting to specific texture patte
 ### 2. Method Comparison
 We compare our physics-guided results with mainstream image-to-image translation models to demonstrate the significant advantages in balancing visual fidelity and physical consistency.
 <p align="center">
-  <img src="assets/comparison.png" width="900" alt="Comparison Results">
+  <img src="assets/comparison.png" width="825" alt="Comparison Results">
   <br>
   <em>Figure 2: Visual comparison of different methods for Optical-to-SAR image translation.</em>
 </p>
@@ -39,7 +39,7 @@ We compare our physics-guided results with mainstream image-to-image translation
 ### 3. Dataset Diversity (Samples Grid)
 Our dataset covers various maritime scenarios, ship scales, and environmental conditions across multiple source domains (DOTA-Ship, MMShip, ShipRSImageNet, VISO).
 <p align="center">
-  <img src="assets/samples_grid.png" width="900" alt="Samples Grid">
+  <img src="assets/samples_grid.png" width="790" alt="Samples Grid">
   <br>
   <em>Figure 3: Representative paired samples from the Phy-OSShip-MS dataset across different source domains.</em>
 </p>
