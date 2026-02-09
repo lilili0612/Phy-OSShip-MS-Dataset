@@ -41,7 +41,7 @@ Our dataset covers various maritime scenarios, ship scales, and environmental co
 <p align="center">
   <img src="assets/samples_grid.png" width="790" alt="Samples Grid">
   <br>
-  <em>Figure 3: Representative paired samples from the Phy-OSShip-MS dataset across different source domains.</em>
+  <em>Figure 3: Representative samples from the Phy-OSShip-MS dataset. (a) Multi-style SAR images generated from a single optical scene under different imaging parameters. (b) Generated results from multiple source datasets. (c) Optical scenes with real atmospheric interference and their corresponding generated SAR images. (d) Simulated target displacement caused by non-synchronous satellite overpasses using consecutive frames from the VISO video sequence.</em>
 </p>
 
 
