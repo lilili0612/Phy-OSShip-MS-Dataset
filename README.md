@@ -3,7 +3,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Status: Under Review](https://img.shields.io/badge/Status-Under%20Review-orange.svg)]()
 
-Official repository for the paper: **"Construction of a Paired Optical-SAR Ship-Containing Dataset via Hierarchical Physics-Guided Style Transfer"**.
+Official repository for the paper: **"Phy-OSShip-MS Dataset:  A Paired Optical-SAR Ship Imagery Generation Method via Hierarchical Physics-Guided Style Transfer"**.
 
 This project addresses the scarcity of high-quality paired Optical-SAR datasets for cross-modal ship detection by introducing a novel physics-guided generation framework.
 
